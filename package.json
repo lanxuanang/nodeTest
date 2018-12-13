@@ -1,0 +1,23 @@
+{
+  "name": "vuenodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanxuanang/vueNodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanxuanang/vueNodeTest/issues"
+  },
+  "homepage": "https://github.com/lanxuanang/vueNodeTest#readme",
+  "dependencies": {
+    "koa": "^2.6.1",
+    "koa-route": "^3.2.0"
+  }
+}
